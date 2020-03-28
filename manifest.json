@@ -1,0 +1,8 @@
+{
+    "name": "com.toshusai.serializabledictionary",
+    "displayName": "SerializableDictionary",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "description": "SerializableDictionary for Unity Package Manager.",
+    "dependencies": {}
+}
